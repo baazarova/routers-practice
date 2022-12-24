@@ -1,0 +1,28 @@
+
+.list{
+    list-style-type: none;
+    text-align: center;
+    margin-top: 30px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+margin-left: auto;
+margin-right: auto;
+}
+.item{
+    border-radius: 1rem;
+    border: 1px solid plum;
+    box-shadow: 0 0 10px 0 plum;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.links{
+    font-size: 25px;
+    text-decoration: none;
+    color: purple;
+    padding: 20px;
+  
+}

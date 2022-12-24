@@ -1,0 +1,12 @@
+.users-list{
+   border: 1px solid plum;
+   border-radius: 1rem;
+   box-shadow: 0 0 10px 0 plum;
+   padding: 20px;
+   gap: 20px;
+}
+.users-item{
+    font-size: 25px;
+    font-weight: bold;
+    color: purple;
+}

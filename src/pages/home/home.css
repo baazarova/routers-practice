@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.home-wrapper{
+    margin: 0 auto;
+    padding: 0 30px;
+}
+.title{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;
+    color: plum;
+    border-radius: 1rem;
+    border: 1px solid plum;
+    padding: 20px;
+    box-shadow: 0 0 10px 0 plum;
+}
